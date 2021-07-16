@@ -1,0 +1,102 @@
+#header {
+    width: 1365px;
+    height: 95px;
+    background-color: #00102f;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+}
+
+#audiocase {
+    width: 370px;
+    float: left;
+    height: 850px;
+    background-color: #000921;
+    position:absolute;
+    top: 95px;
+    left: 0;
+}
+
+#content {
+    width: 995px;
+    height: 850px;
+    float: right;
+    top: 95px;
+    left: 370px;
+    background-color: #001f50;
+    position: absolute;
+}
+
+#back {
+    height: 55px;
+    width: 90px;
+    background-color: #000921;
+    border: 0px;
+}
+
+* {
+    color: white;
+    text-align: center;
+    
+}
+
+img {
+    position:sticky;
+}
+
+#videocase {
+    width: 1365px;
+    height: 300px;
+    background-color:#00102f;
+    position:absolute; 
+    top: 945px;
+    left: 0;
+    right: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+
+}
+
+iframe {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: relative;
+    margin: auto;
+    border-radius: 1px;
+    
+    
+}
+
+#video {
+    letter-spacing: 50px;
+   
+    
+}
+
+h1 {
+    top: 2px;
+    left: 370px;
+    position: absolute;
+    text-align: center;
+}
+
+#miku {
+    left: 720px;
+    top: 5px;
+    position: absolute;
+}
+
+#commentcase {
+    height: 100%;
+    width: 1365px;
+    background-color: #001f50;
+    position: absolute;
+    top: 1245px;
+    left: 0;
+    right: 0;
+}
