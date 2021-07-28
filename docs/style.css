@@ -27,6 +27,7 @@
     left: 370px;
     background-color: #001f50;
     position: absolute;
+    
 }
 
 #back {
@@ -101,6 +102,11 @@ h1 {
     right: 0;
 }
 
+
 #cincopa_36effe {
+    margin-top: 30px !important;
+}
+
+#cincopa_29b6a4 {
     margin-top: 30px !important;
 }
